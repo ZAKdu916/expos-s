@@ -1,0 +1,31 @@
+C'est quoi le hacking ethique?
+
+Le hacking ethique, auusi appelé penstesing(donc test d'intrusion), consiste a utiliser les memes techniques que les hackers pour identifier et corriger des
+failles de sécurité, mais avec l'autorisation des propriétaires des sysyème. Contrairement au "black hat"(pirate malveillant), le hacker ethique agit 
+légalement, avec une intention positive et bienveillante.
+
+
+
+Pourquoi apprendre le hacking ethique?
+
+ .Pour comprendre comment fonctionnent les attaques et mieux s'en defendre.
+ .Pour devenir pentester.
+ 
+
+
+Outils et techniques utilisés:
+
+Dans le hacking ethique, on utilise souvent des systemes comme Kali Linux, des machines virtueles, VirtualBox, VMware, et des outils comme:
+
+Nmap: pour scanner des reseaux.
+Metasploit: pour tester des vulnerabilités.
+Wireshark: pour analyser le trafic.
+Burp Suite: pour tester la securite des sites web.
+
+
+
+
+
+
+
+Ce projet GitHub sert a montrer ce que j'apprends.
