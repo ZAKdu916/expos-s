@@ -1,0 +1,23 @@
+Installer Kali Linux via WSL (Windows Subsystem for Linux)
+ 1. Activer WSL :
+Ouvrez l'Invite de commandes (CMD) ou PowerShell en tant qu'administrateur.
+
+Exécutez la commande suivante pour activer WSL et installer WSL 2 (la version recommandée) :
+
+wsl --install
+Redémarrez votre ordinateur.
+
+ 2. Installer Kali Linux via WSL :
+Ouvrez le Microsoft Store sur Windows.
+
+Recherchez "Kali Linux" et installez l'application officielle.
+
+Une fois installé, lancez l'application Kali Linux depuis votre menu Démarrer.
+
+Configurez votre utilisateur et votre mot de passe pour Kali Linux.
+
+ 3. Mettre à jour et configurer Kali Linux :
+Une fois dans le terminal Kali, exécutez les commandes suivantes pour mettre à jour votre système :
+
+sudo apt update && sudo apt upgrade -y
+Kali Linux est maintenant installé et prêt à être utilisé directement depuis Windows.
