@@ -1,0 +1,44 @@
+Introduction:
+
+Le ransomware est une menace informatique redoutable et persistante qui chiffre les données d'un utilisateur ou d'une organisation, puis demande une rancon pour pouvoir recuperer
+l'acces. Cette categorie de malwares s'est transformée au fil des années, passant de simples outils de chantage a des activités criminels complexes.Ils sont anonymes et 
+demandent de la cryptomonnaie en echange de vos données. C'est l'une des plus grandes menaces actuelles en cybersecurite.
+
+
+
+Histoire de ransomwares:
+
+.1989: le premier ransomware connu, appelé AIDS Trojan, a ete distribué sur disquette et exigeait que l'utilisateur envoi de l'argent par la poste a une adresse au Panama.
+.Années 2000: emergence des ransomwares modernes a l'usage du chiffrement RSA.
+.2013: CryptoLocker marque un tournant en popularisant le modele "Ransomware-as-a-Service(RaaS)".
+.2017: WannaCry et NotPetya, deux ransomware a propagation rapide utilisant des exploits comme EternalBlue, affectent des centaines de milliers de machines dans le monde.
+.2020-2024: explosion des attaques ciblant les hopiteaux, administrations, entreprises critiques avec une strategie de double extorsion(chiffrement + volde données).
+
+
+
+Fonctionnement technique:
+
+Infection:
+Phishing (emails contenant des pieces jointes ou des liens piégés)
+
+Chiffrement:
+Une fois le systeme compromis, le ransomware execute une reconnaissance reseau pour trouver d'autres cibles.
+
+Communication:
+Le malware communique avec un serveur de commande et de controle (C2)
+
+
+
+Ne jamais payer, car rien ne garanti la recuperation des données. Certaines entreprises sont contraintes par l'urgence ou l'impact(par exemple les hopitaux).
+
+Certains pays interdissent ou reglementent le paiement par rancons.
+
+
+
+Les ransomware ne sont pas de simple logiciels malveillants: ce sont des armes numeriques.
+
+
+
+
+Ceci etait mon exposé sur les ransomwares.
+
