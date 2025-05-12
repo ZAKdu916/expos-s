@@ -1,0 +1,60 @@
+Exposé sur le Langage JavaScript
+
+Introduction
+
+JavaScript est l'un des langages de programmation les plus populaires au monde. Créé en 1995 par Brendan Eich, il a évolué pour devenir une technologie essentielle du
+développement web, permettant de rendre les pages web interactives.
+
+Historique
+
+1995 : Création de JavaScript par Brendan Eich chez Netscape.
+
+1997 : JavaScript est standardisé par l'ECMA (ECMAScript).
+
+2009 : Naissance de Node.js, permettant l'exécution de JavaScript côté serveur.
+
+2015 : ES6 (ECMAScript 2015) introduit des fonctionnalités modernes.
+
+Caractéristiques de JavaScript
+
+Langage Interprété : S’exécute directement dans les navigateurs.
+
+Dynamique et Faiblement Typé : Les types de variables peuvent changer.
+
+Orienté Objet : Basé sur la programmation orientée objet avec les prototypes.
+
+Multi-plateforme : Fonctionne côté client (navigateur) et côté serveur (Node.js).
+
+Utilisations de JavaScript
+
+Développement Frontend : Avec HTML et CSS pour créer des interfaces utilisateur interactives.
+
+Développement Backend : Avec Node.js pour créer des serveurs rapides et évolutifs.
+
+Applications Mobiles : Avec des frameworks comme React Native.
+
+Jeux Vidéo : Avec des bibliothèques comme Phaser.js.
+
+Les Principaux Concepts
+
+Variables et Types : var, let, const.
+
+Fonctions : Fonction traditionnelle, fonction fléchée.
+
+Objets : Utilisation des objets et des classes.
+
+Asynchrone : Promises, async/await.
+
+Outils et Environnements
+
+Navigateurs : Chrome, Firefox, Safari.
+
+Node.js : Pour le développement côté serveur.
+
+Frameworks Frontend : React, Vue.js, Angular.
+
+Outils de Build : Webpack, Babel.
+
+Conclusion
+
+JavaScript est un langage polyvalent qui continue de dominer le développement web. Son écosystème riche et ses mises à jour régulières le maintiennent au cœur de l'industrie.
